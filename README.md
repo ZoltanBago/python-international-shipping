@@ -5,10 +5,13 @@ A nemzetközi szállítmányozással kapcsolatos adatok kezdő szintű elemzése
 ![](logistics.jpg)
 *Kép forrása: pixabay.com*
 
-## 1. Az adatbetöltés és az alapadatok
-## 2. Az adatok szűrése
-## 3. Csoportosítás és aggregáció
-## 4. Új oszlop hozzáadása és adatmanipuláció
+**1. Feladat** - Az adatok betöltése és az alapadatok megjelenítése
+
+**2. Feladat** - Az adatok szűrése
+
+**3. Feladat** - Csoportosítás és aggregáció
+
+**4. Feladat** - Új oszlop hozzáadása és adatmanipuláció
 
 ## Licenc
 
